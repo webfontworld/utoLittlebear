@@ -1,5 +1,3 @@
-# utoLittlebear
-
 # 리틀베어(UtoLittleBear)
 
 <a href="https://wess.tistory.com" target="_blank">
